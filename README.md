@@ -1,0 +1,2 @@
+# speech-topic-localization
+Code repository for the EMNLP 2026 paper "Reusing Latent Speech Representations for Query-Conditioned Topic Localization in Transcripts"
